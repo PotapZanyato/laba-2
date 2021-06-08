@@ -1,7 +1,0 @@
-﻿  RGZ ll.cpp
-C:\Users\Daniil\source\repos\RGZ ll\RGZ ll.cpp(59,37): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\source\repos\RGZ ll\RGZ ll.cpp(69,36): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\source\repos\RGZ ll\RGZ ll.cpp(79,36): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\source\repos\RGZ ll\RGZ ll.cpp(89,36): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\source\repos\RGZ ll\RGZ ll.cpp(99,36): warning C4018: '<': signed/unsigned mismatch
-  RGZ ll.vcxproj -> C:\Users\Daniil\source\repos\RGZ ll\Debug\RGZ ll.exe
