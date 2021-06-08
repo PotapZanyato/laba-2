@@ -1,1 +1,7 @@
-﻿  РГЗ_2_СС.vcxproj -> C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\Debug\РГЗ_2_СС.exe
+﻿  РГЗ_2_СС.cpp
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(173,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(183,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(193,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(203,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(213,36): warning C4018: '<': signed/unsigned mismatch
+  РГЗ_2_СС.vcxproj -> C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\Debug\РГЗ_2_СС.exe
