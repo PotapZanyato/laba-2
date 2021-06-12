@@ -1,10 +1,10 @@
 ﻿  РГЗ_2_СС.cpp
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(59,17): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(63,51): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(83,15): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(87,53): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(111,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(115,48): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(135,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(141,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(71,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(75,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(95,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(99,53): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(123,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(127,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(147,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\РГЗ_2_СС\РГЗ_2_СС.cpp(153,52): warning C4018: '<': signed/unsigned mismatch
   РГЗ_2_СС.vcxproj -> C:\Users\Daniil\Desktop\New folder\trunk\РГЗ_2_СС\Debug\РГЗ_2_СС.exe
